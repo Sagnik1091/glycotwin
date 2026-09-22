@@ -7,7 +7,7 @@ Replace all bracketed placeholders before submitting.
 - **Project:** GlycoTwin
 - **Team:** Kinetix
 - **University / incubator:** National Institute of Technology, Raipur
-- **Members (1–4):** Sagnik Patra, Ankit Bhaskar, Satyam Sarkar, Shrikant Mishra
+- **Members (1–4):** Sagnik Patra, Ankit Bhaskar, Shrikant Mishra
 - **Primary contact:** sani2008yo@gmail.com
 - **GitHub repository:** https://github.com/Sagnik1091/glycotwin
 
