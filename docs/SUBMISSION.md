@@ -5,13 +5,11 @@ Replace all bracketed placeholders before submitting.
 ## Entry details
 
 - **Project:** GlycoTwin
-- **Team:** [TEAM NAME]
-- **University / incubator:** [INSTITUTION]
-- **Members (1–4):** [NAMES]
-- **Primary contact:** [EMAIL / PHONE]
-- **GitHub repository:** [PUBLIC GITHUB URL]
-- **Live demo (optional):** [DEPLOYMENT URL]
-- **Demo video (optional):** [VIDEO URL]
+- **Team:** Kinetix
+- **University / incubator:** National Institute of Technology, Raipur
+- **Members (1–4):** Sagnik Patra, Ankit Bhaskar, Satyam Sarkar, Shrikant Mishra
+- **Primary contact:** sani2008yo@gmail.com
+- **GitHub repository:** https://github.com/Sagnik1091/glycotwin
 
 ## Problem and outcome
 
