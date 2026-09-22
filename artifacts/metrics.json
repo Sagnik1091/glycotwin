@@ -1,0 +1,6 @@
+{
+  "roc_auc": 0.825,
+  "brier_score": 0.094,
+  "test_samples": 1500,
+  "positive_rate": 0.139
+}

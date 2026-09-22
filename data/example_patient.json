@@ -1,0 +1,14 @@
+{
+  "age": 48,
+  "bmi": 28.5,
+  "hba1c": 7.6,
+  "fasting_glucose": 142,
+  "avg_glucose_7d": 158,
+  "glucose_variability": 34,
+  "resting_hr": 76,
+  "steps_day": 5200,
+  "sleep_hours": 6.4,
+  "carbs_g_day": 235,
+  "medication_adherence": 0.78,
+  "systolic_bp": 132
+}
