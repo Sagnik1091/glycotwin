@@ -50,7 +50,7 @@ See [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) for design decisions and prod
 ### Local Python
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/Sagnik1091/glycotwin.git
 cd glycotwin
 python -m venv .venv
 source .venv/bin/activate             # Windows: .venv\Scripts\activate
